@@ -38,15 +38,34 @@ The following steps are followed in this project:
 - **NumPy & Pandas** 📊  
 - **Matplotlib & Seaborn** 📉  
 
-
 ## 🚀 Installation & Usage
-### 1️⃣ Clone the Repository  
+### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/msaakaash/Lung-Cancer-Prediction.git
 cd Lung-Cancer-Prediction
+```
+
+### 2️⃣ Check the Status of Changes
+```bash
+git status
+```
+### 3️⃣ Add Files to Staging Area
+```bash
+git add .
+```
+### 4️⃣ Commit the Changes
+```bash
+git commit -m "Added new feature or fixed a bug"
+```
+### 5️⃣ Push Changes to GitHub
+```bash
+git push origin main
 ```
 ## 🤝 Contributing  
 Contributions are welcome! Feel free to fork the repository, work on new features, and submit pull requests.  
 
 ## 📝 License  
 This project is licensed under the MIT License. 
+
+
+
