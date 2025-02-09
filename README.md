@@ -97,7 +97,7 @@ git push origin feature-branch
 
 
 
-🎉 Now, the maintainers can review and merge your changes!
+
 ## 🤝 Contributing  
 Contributions are welcome! Feel free to fork the repository, work on new features, and submit pull requests.  
 
